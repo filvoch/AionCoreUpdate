@@ -20,7 +20,7 @@
   "alert.cube.born.where": "A Hidden Cube was born ~{meters} m {direction}. Opening it costs one key.",
   "alert.cube.closer.text": "You are getting closer.",
   "alert.cube.closer.title": "Hidden Cube under {meters} m",
-  "alert.cube.dir.0": "north",
+  "alert.cube.dir.0": "north (ci test)",
   "alert.cube.dir.1": "northeast",
   "alert.cube.dir.2": "east",
   "alert.cube.dir.3": "southeast",
