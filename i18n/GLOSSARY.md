@@ -57,18 +57,18 @@ Terms that must be translated the same way everywhere in AionCore. **Never trans
 | chefe-vakron | Vakron | Vakron | Vakron | Vakron | Вакрон | Vakron | Vakron | Vakron | official |
 | modo-exploracao | Exploração | Exploration | Exploración | Erkundung | Исследование | Exploration | Exploration | 探索 | official |
 | modo-conquista | Conquista | Conquest | Conquista | Eroberung | Завоевание | Conquête | Conquest | 征服 | official |
-| categoria-colisao | Colisão | Dungeon | Enfrentamiento | Zusammenstoß | Столкновение | Affrontements | Dungeon | Dungeon | official |
+| categoria-colisao | Colisão | Dungeon | Enfrentamiento | Zusammenstoß | Столкновение | Affrontements | Dungeon | 副本 | official |
 | odyle | Od | Odyle | Od | Od | Эфир | Od | Odyle | Odyle | official |
 | vigilante-kaira | Vigilante Kairah | Watcher Kaira | Velador Kaira | Aufseherin Kaira | Дозорщик Кайра | Kaira la veilleuse | Watcher Kaira | Watcher Kaira | official |
 | shugo | Shugo | Shugo | Shugo | Shugo | Шиго | Shugo | Shugo | 休古 | official |
-| fenda | Fenda | Rift | Grieta | Riss | Разлом | Faille | Rift | Rift | official |
+| fenda | Fenda | Rift | Grieta | Riss | Разлом | Faille | Rift | 裂缝 | official |
 | abismo | Abismo | Abyss | Abismo | Abgrund | Бездна | Abysse | Abyss | 深渊 | official |
-| dominacao | Dominação | Domination | Dominación | Herrschaft | Подчинение | Domination | Domination | Domination | official |
-| theostone | Pedra Divina | Theostone | Piedra sagrada | Götterstein | Священный камень | Pierre sacrée | Theostone | Theostone | official |
+| dominacao | Dominação | Domination | Dominación | Herrschaft | Подчинение | Domination | Domination | 支配 | official |
+| theostone | Pedra Divina | Theostone | Piedra sagrada | Götterstein | Священный камень | Pierre sacrée | Theostone | 神石 | official |
 | poder-de-combate | Poder de Combate (PC) | Combat Power (CP) | Poder de combate (PC) | Kampfkraft (KK) | Боевая мощь (БМ) | Puissance de combat (PC) | Combat Power (CP) | 战斗力 | proposed |
 | combat-analysis | Combat Analysis | Combat Analysis | Combat Analysis | Combat Analysis | Combat Analysis | Combat Analysis | Combat Analysis | 战斗分析 | proposed |
-| evento-fenda | Fenda do Espaço-Tempo | Space-Time Rift | Grieta del Espacio-Tiempo | Raumzeitriss | Разлом пространства-времени | Faille spatio-temporelle | Space-Time Rift | Space-Time Rift | proposed |
-| evento-dominacao | Dominação da Fenda | Rift Domination | Dominación de la Grieta | Rissherrschaft | Подчинение разлома | Domination de la Faille | Rift Domination | Rift Domination | proposed |
+| evento-fenda | Fenda do Espaço-Tempo | Space-Time Rift | Grieta del Espacio-Tiempo | Raumzeitriss | Разлом пространства-времени | Faille spatio-temporelle | Space-Time Rift | 时空裂缝 | proposed |
+| evento-dominacao | Dominação da Fenda | Rift Domination | Dominación de la Grieta | Rissherrschaft | Подчинение разлома | Domination de la Faille | Rift Domination | 裂缝支配 | proposed |
 | evento-festival-shugo | Festival Shugo | Shugo Festival | Festival Shugo | Shugo-Fest | Фестиваль шиго | Festival Shugo | Shugo Festival | 休古庆典 | proposed |
 | energia-odyle | Energia Odyle | Odyle energy | Energía de Od | Od-Energie | Энергия эфира | Énergie d’Od | Odyle energy | 奥德能量 | proposed |
 | kinah | Kinah | Kinah | Kinah | Kinah | кинары | Kinah | Kinah | 基纳 | proposed |
