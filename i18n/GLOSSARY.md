@@ -158,4 +158,9 @@ Terms that must be translated the same way everywhere in AionCore. **Never trans
 | cobertura | Cobertura | Coverage | Cobertura | Abdeckung | Покрытие | Couverture | Kapsama | 覆盖率 | proposed |
 | estimado | estimado | estimated | estimado | geschätzt | оценка | estimé | tahmini | 预估 | proposed |
 | suporte | suporte | support role | soporte | Support-Rolle | роль поддержки | rôle de soutien | destek | 辅助 | proposed |
+| evasao | Evasão | Evasion | Evasión | Ausweichen | Уклонение | Esquive | Kaçınma | 闪避 | proposed |
+| periodos-de-quebra | Períodos de quebra | Break periods | Periodos de rotura | Bruchphasen | Периоды слома | Périodes de rupture | Kırılma dönemleri | 破防时段 | proposed |
+| auras | Auras | Auras | Auras | Auren | Ауры | Auras | Auralar | 光环 | proposed |
+| barras-de-acao | Barras de ação | Action bars | Barras de acción | Aktionsleisten | Панели действий | Barres d’action | Eylem çubukları | 动作栏 | proposed |
+| dormente | Dormente | Dormant | Inactivo | Ruhend | Неактивно | Dormant | Uykuda | 休眠 | proposed |
 
