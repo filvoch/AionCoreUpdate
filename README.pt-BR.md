@@ -16,7 +16,7 @@
 
 <a href="https://github.com/filvoch/AionCoreUpdate/releases/latest/download/AionCore-Setup.exe"><img alt="Baixar o AionCore para Windows (AionCore-Setup.exe)" src="https://img.shields.io/badge/Baixar_para_Windows-AionCore--Setup.exe-1a9bbd?style=for-the-badge&logo=windows&logoColor=white"></a>
 
-<sub>Instalador de uns 160 MB · se atualiza sozinho · Windows 10 ou 11, 64 bits · [Todas as versões](https://github.com/filvoch/AionCoreUpdate/releases) · [Site](https://aioncore.app) · [Discord](https://aioncore.app/discord)</sub>
+<sub>Instalador de uns 195 MB · se atualiza sozinho · Windows 10 ou 11, 64 bits · [Todas as versões](https://github.com/filvoch/AionCoreUpdate/releases) · [Site](https://aioncore.app) · [Discord](https://aioncore.app/discord)</sub>
 
 <img alt="Captura de tela do Radar de Cubos com norte fixo: você no centro com uma seta para onde você olha, três Cubos Ocultos em volta, o mais perto destacado com uma linha, e o texto &quot;Cube 38 m northeast&quot; e &quot;+2 more · ahead, to the right&quot; (app em inglês, dados de exemplo)" src="media/shot-radar.jpg" width="820">
 
@@ -32,13 +32,13 @@
 - **Ache o Cubo Oculto.** O radar abre sozinho quando o jogo mostra um cubo perto e diz para onde ir.
 - **Tudo numa barra sobre o jogo.** Um botão para cada janela, um cadeado que deixa o clique passar e nada na frente quando você abre o mapa ou o inventário.
 
-## Novidades da 1.17 à 1.20
+## Novidades desde a 1.20
 
-- **Mapa do jogo no app:** nova aba **Mapa**, grátis, com coleta, monstros, teleportes, entradas de masmorra, cubos e chefes de campo. Ao vivo, mostra a sua posição e pode avisar quando um chefe de campo renasce.
-- **Entrar com o Discord pelo navegador:** o botão abre o navegador e devolve você ao AionCore já conectado, sem digitar código.
-- **Radares maiores e melhores:** o radar de pets agora tem o mapa em cima e a lista embaixo, os dois radares têm zoom e mudam de tamanho livremente, o radar de Cubos marca o cubo que está bem acima ou abaixo de você e o mapa do jogo aparece atrás dos pontos.
-- **Escala da interface de 75% a 200%** (Ctrl +, Ctrl − e Ctrl 0) e um medidor que pode crescer para cima.
-- **Mais números, grátis:** nova aba **APS** (golpes por segundo), cura efetiva e overheal, e dicas que explicam cada métrica. Quem apoia também ganha a **Análise de habilidades** e uma aba **Apoiador** renovada.
+- **PvP automático e grátis, com Abyss Rank:** um cartão sobre o jogo liga sozinho num combate PvP ou no Abismo/Fenda, com K/D/A, histórico de partidas e o seu Abyss Rank — sem precisar de apoio.
+- **AionCore 2.0, o novo visual padrão:** painel do medidor redesenhado, com imagens de capa, cor e animação do nick, e modo Treino para quem apoia.
+- **Avisos de mecânica do chefe com a fala do próprio jogo**, um cartão de Ameaça para quem apoia, e um resumo do jogador ao passar o mouse, com habilidades, buffs e o maior golpe.
+- **Medidor mais fluido:** barras contínuas, o número de DPS desliza e as linhas que mudam de posição deslizam até o novo lugar.
+- **Tela de plugins redesenhada:** liga, desliga ou oculta cada overlay numa só aba, com visão em Lista ou Grade.
 
 [Tudo o que mudou](https://github.com/filvoch/AionCoreUpdate/releases/latest) · [As telas novas no site](https://aioncore.app/features)
 
@@ -74,7 +74,7 @@ O radar mostra só os cubos que o jogo envia. O jogo só informa a sua posição
 - **Janela principal:** Início com a contagem para o reinício do dia e da semana, os seus personagens, os próximos eventos e a última luta; Ctrl+K busca telas e comandos. Abre pela barra, pela bandeja do Windows ou por Ctrl+Alt+A.
 - **Fora do caminho:** a barra e os overlays somem quando outro programa está na frente e quando um menu do jogo abre (Esc, mapa, inventário). Com **Abrir o AionCore como administrador** ligado, o AionCore vê só se as teclas Alt e Esc estão apertadas, só com o jogo na frente; nenhuma outra tecla, e nada é gravado nem enviado. Sem o modo administrador, ele se guia pelo cursor do jogo. Desliga em **Configurações › Sobre o jogo**.
 - **Atalhos Ctrl+Alt** que funcionam por cima do jogo (M medidor, G grupo, H recolher a barra, L travar, K clique atravessa, D esconder tudo). Se outro programa já usa um, o AionCore oferece trocar.
-- Ameaça, Alvo PvP e Arena aparecem esmaecidos na barra: **em breve**. O **Mapa** é uma aba grátis da janela principal.
+- O PvP automático é grátis; Ameaça é para quem apoia; Alvo PvP está em Acesso Antecipado de apoiador. O **Mapa** é uma aba grátis da janela principal.
 
 <p align="center"><img alt="Captura de tela da barra do AionCore: o nome à esquerda, uma fileira de botões de ícone, o controle de opacidade em 100%, o cadeado e os botões de recolher, ajustes e fechar (app em inglês)" src="media/shot-bar.jpg" width="880"></p>
 

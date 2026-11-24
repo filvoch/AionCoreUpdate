@@ -16,7 +16,7 @@
 
 <a href="https://github.com/filvoch/AionCoreUpdate/releases/latest/download/AionCore-Setup.exe"><img alt="Download AionCore for Windows (AionCore-Setup.exe)" src="https://img.shields.io/badge/Download_for_Windows-AionCore--Setup.exe-1a9bbd?style=for-the-badge&logo=windows&logoColor=white"></a>
 
-<sub>About 160 MB installer · updates itself · Windows 10 or 11, 64-bit · [All versions](https://github.com/filvoch/AionCoreUpdate/releases) · [Website](https://aioncore.app/en) · [Discord](https://aioncore.app/discord)</sub>
+<sub>About 195 MB installer · updates itself · Windows 10 or 11, 64-bit · [All versions](https://github.com/filvoch/AionCoreUpdate/releases) · [Website](https://aioncore.app/en) · [Discord](https://aioncore.app/discord)</sub>
 
 <img alt="Screenshot of the Cube radar, north up: you in the center with an arrow for where you are facing, three Hidden Cubes around you, the nearest one highlighted with a line, and the text &quot;Cube 38 m northeast&quot; and &quot;+2 more · ahead, to the right&quot; (app in English, sample data)" src="media/shot-radar.jpg" width="820">
 
@@ -32,13 +32,13 @@
 - **Find the Hidden Cube.** The radar opens by itself when the game shows a cube nearby and tells you where to go.
 - **Everything in one bar over the game.** One button per window, a lock that lets clicks through, and nothing in the way when you open the map or the inventory.
 
-## What's new from 1.17 to 1.20
+## What's new since 1.20
 
-- **Game map in the app:** a new, free **Map** tab with gathering, monsters, teleports, dungeon entrances, cubes and field bosses. Live, it shows your position and can notify you when a field boss respawns.
-- **Connect with Discord from your browser:** the button opens the browser and brings you back to AionCore connected, with no code to type.
-- **Bigger and better radars:** the pet radar now has the map on top and a list below, both radars zoom and resize freely, the Cube radar marks a cube that is well above or below you, and the game map shows behind the dots.
-- **Interface scale from 75% to 200%** (Ctrl +, Ctrl − and Ctrl 0) and a meter that can grow upward.
-- **More numbers, free:** a new **APS** (hits per second) tab, effective healing and overheal, and tooltips that explain every metric. Supporters also get **Skill analysis** and a revamped **Supporter** tab.
+- **Free, automatic PvP and Abyss Rank:** a card over the game turns on by itself in PvP combat or the Abyss/Rift, with K/D/A, match history and your Abyss Rank — no support needed.
+- **AionCore 2.0, the new default look:** a redesigned meter panel, with cover images, nick color and animation, and Training mode for supporters.
+- **Boss mechanic warnings from the game's own lines**, a Threat card for supporters, and a player summary on mouse hover with skills, buffs and biggest hit.
+- **Smoother meter:** continuous bars, gliding DPS numbers, and rows that slide into place instead of jumping.
+- **Plugins screen redesigned:** turn every overlay on, off or hidden from one tab, with List or Grid view.
 
 [Everything that changed](https://github.com/filvoch/AionCoreUpdate/releases/latest) · [The new screens on the website](https://aioncore.app/en/features)
 
@@ -74,7 +74,7 @@ The radar shows only cubes the game sends. The game reports your own position on
 - **Main window:** Home with the countdown to the daily and weekly reset, your characters, upcoming events and your last fight; Ctrl+K searches screens and commands. Open it from the bar, the Windows tray or with Ctrl+Alt+A.
 - **Out of the way:** the bar and the overlays hide when another program is in front and when a game menu opens (Esc, map, inventory). With **Open AionCore as administrator** on, AionCore checks only whether the Alt and Esc keys are pressed, only while the game is in front; no other key, and nothing is recorded or sent. Without administrator mode, it goes by the game's cursor. Turn it off in **Settings › In-game**.
 - **Ctrl+Alt shortcuts** that work over the game (M meter, G party, H collapse the bar, L lock, K click-through, D hide everything). If another program already uses one, AionCore offers to change it.
-- Threat, PvP target and Arena appear dimmed on the bar: **coming soon**. The **Map** is a free tab in the main window.
+- Automatic PvP is free; Threat is for supporters; PvP Target is in supporter Early Access. The **Map** is a free tab in the main window.
 
 <p align="center"><img alt="Screenshot of the AionCore bar: the name on the left, a row of icon buttons, the opacity control at 100%, the lock and the collapse, settings and close buttons (app in English)" src="media/shot-bar.jpg" width="880"></p>
 
